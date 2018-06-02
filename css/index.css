@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    
+}
+body{
+    background-image: url(../images/blur-bright-close-up-1124960.jpg); 
+}
+header{
+    position: absolute;
+    top:0;
+    height: 100px;
+    width: 100%;
+    background: rgba(179, 132, 71, 0.678);
+    /* opacity: 0.5; */
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    background: rgba(179, 132, 71, 0.678);
+
+}
