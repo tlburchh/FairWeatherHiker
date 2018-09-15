@@ -9,5 +9,7 @@ Our project is called Fair Weather Hiker. This application allows the user to in
 
 We are utilizing AJAX calls to the API hikingproject.com, and openweathermap.org. 
 The idea is that when a user inputs the location of concern, then the same location’s weather is also retrieved.
-This way the user may see a map of the hiking trail (possibly) and an exact position of the trail with further information such as conditions of the trail, how long it is, etc.
+This way the user may see a map of the exact position of the trail with further information such as conditions of the trail, how long it is, etc.
 The weather API gives information of weather alerts, 5 day / 3 day forecasts, and current weather. 
+
+![fwh](https://user-images.githubusercontent.com/37091749/45587326-7166b700-b8d2-11e8-8420-fe318ce267a0.jpg)
