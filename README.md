@@ -3,6 +3,8 @@
 
 A project with Calvin Leung, Lacey McComas, Tom Burchhardt and Greg May.
 
+Original project information can be found at https://github.com/HelpfulOwl/404
+
 Our project is called Fair Weather Hiker. This application allows the user to input location and retrieve information about local hiking trails and relevant weather for that same region. The target audience is outdoor enthusiasts.
 
 We are utilizing AJAX calls to the API hikingproject.com, and openweathermap.org. 
