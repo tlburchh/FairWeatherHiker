@@ -1,0 +1,109 @@
+
+
+.display-5 {
+    color: white;
+    text-align: center;
+    margin-top: -35px;
+}
+
+.input-group-prepend {
+    background-color: green;
+}
+
+.navbar-nav{
+    background-color: green;
+}
+
+#greenCard{
+    border-color: green;
+}
+
+/* color for the title in the banner */
+.card-title-t {
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: -1px 0 rgb(17, 117, 117), 0 1px rgb(17, 117, 117), 1px 0 rgb(17, 117, 117), 0 -1px rgb(17, 117, 117);
+
+    
+}
+
+.card-title {
+    color: white;
+}
+
+.card-text {
+    color: white;
+}
+
+/* the text for the weather drop-down */
+.card-text-w { 
+    color: white;
+}
+
+.card-header {
+    color: white;
+}
+/* Set the size of the div element that contains the map */
+#googleMap {
+    height: 400px;  /* The height is 400 pixels */
+    width: 100%;  /* The width is the width of the web page */
+    margin-top: 10px;
+   }
+
+#trailCard {
+    background-color: green;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+}
+
+hr {
+    background-color: green;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: rgb(37, 33, 33);
+   color: white;
+   text-align: center;
+   padding-top: 10px;
+}
+
+#saveButton {
+    width:85px;
+    padding:5px;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    background-color: green;   
+}
+
+
+#saved-body {
+    color: white;
+}
+
+
+
+
+
+
+#list-item{
+    color: white;
+}
+
+
+@media only screen and (max-width: 555px) {
+
+    .card-title-t {
+        font-size: 100%;
+    }
+}
+
